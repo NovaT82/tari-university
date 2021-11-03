@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>/learning-paths/</loc>
+      <lastmod>2020-01-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/learning-paths/blockchain-basics</loc>
+      <lastmod>2020-01-01T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/learning-paths/mimblewimble</loc>
+      <lastmod>2020-01-02T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/learning-paths/bulletproofs</loc>
+      <lastmod>2020-01-03T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography</loc>
+      <lastmod>2020-02-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/elliptic-curves</loc>
+      <lastmod>2020-02-01T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/introduction-schnorr-signatures</loc>
+      <lastmod>2020-02-02T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/introduction-to-scriptless-scripts</loc>
+      <lastmod>2020-02-03T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/The_MuSig_Schnorr_Signature_Scheme</loc>
+      <lastmod>2020-02-04T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/fraud-proofs</loc>
+      <lastmod>2020-02-05T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/bulletproofs-and-mimblewimble</loc>
+      <lastmod>2020-02-06T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/building-on-bulletproofs</loc>
+      <lastmod>2020-02-07T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/the-bulletproof-protocols</loc>
+      <lastmod>2020-02-08T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/pure-rust-elliptic-curve-cryptography</loc>
+      <lastmod>2020-02-09T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/zk-snarks</loc>
+      <lastmod>2020-02-10T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/rank-1</loc>
+      <lastmod>2020-02-11T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/amortization-of-bulletproof-inner-product-proof</loc>
+      <lastmod>2020-02-12T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/cryptography/trustless-recursive-zero-knowledge-proofs</loc>
+      <lastmod>2020-02-13T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/consensus-mechanisms/</loc>
+      <lastmod>2020-03-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/consensus-mechanisms/understanding_bft_consensus</loc>
+      <lastmod>2020-03-01T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/consensus-mechanisms/bft-consensus-mechanisms</loc>
+      <lastmod>2020-03-02T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/consensus-mechanisms/Introduction-to-Applications-of-Byzantine-Consensus-Mechanisms</loc>
+      <lastmod>2020-03-03T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/scaling/</loc>
+      <lastmod>2020-04-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/scaling/layer2scaling-survey</loc>
+      <lastmod>2020-04-01T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/scaling/executive-summary</loc>
+      <lastmod>2020-04-02T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/scaling/dags</loc>
+      <lastmod>2020-04-03T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/scaling/laser-beam</loc>
+      <lastmod>2020-04-04T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/mining/</loc>
+      <lastmod>2020-05-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/mining/merged-mining</loc>
+      <lastmod>2020-05-01T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/mining/MergedMiningIntroduction</loc>
+      <lastmod>2020-05-02T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/mining/merged-mining-monero</loc>
+      <lastmod>2020-05-03T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/mining/pool-mining</loc>
+      <lastmod>2020-05-04T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/digital-assets/</loc>
+      <lastmod>2020-06-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/digital-assets/application-of-howey-network-token-sales</loc>
+      <lastmod>2020-06-01T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/digital-assets/nft-survey</loc>
+      <lastmod>2020-06-02T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/digital-assets/confidential-assets</loc>
+      <lastmod>2020-06-03T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/</loc>
+      <lastmod>2020-07-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/mimblewimble</loc>
+      <lastmod>2020-07-01T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/mimblewimble-transactions-explained</loc>
+      <lastmod>2020-07-02T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/grin-protocol-overview</loc>
+      <lastmod>2020-07-03T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/grin-vs-beam-comparison</loc>
+      <lastmod>2020-07-04T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/grin-design-choice-algorithms</loc>
+      <lastmod>2020-07-05T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/AtomicSwaps</loc>
+      <lastmod>2020-07-06T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/lightning-network-for-dummies</loc>
+      <lastmod>2020-07-07T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/merkle-trees-and-spv</loc>
+      <lastmod>2020-07-08T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/rgb-protocol</loc>
+      <lastmod>2020-07-09T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/intro-to-tor-and-i2p</loc>
+      <lastmod>2020-07-10T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/distributed-hash-tables</loc>
+      <lastmod>2020-07-11T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/protocols/mimblewimble-mb-bp-utxo</loc>
+      <lastmod>2020-07-12T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/network-analysis</loc>
+      <lastmod>2020-08-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/network-analysis/byzantine_takeover_of_the_DAN</loc>
+      <lastmod>2020-08-02T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/labs/</loc>
+      <lastmod>2020-09-01T09:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/labs/mermaid-demo</loc>
+      <lastmod>2020-09-01T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/labs/notes</loc>
+      <lastmod>2020-09-02T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/style-guide/</loc>
+      <lastmod>2020-10-01T12:01:35+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/tari/TariScript_for_dummies</loc>
+      <lastmod>2021-10-13T12:00:00+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+</urlset>
